@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "zh-TW" #"en-US"
@@ -251,12 +251,15 @@ jekyll-archives:
    enabled:
      - categories
      - tags
+     - year
    layouts:
      category: archive-taxonomy
      tag: archive-taxonomy
+     year: archive-taxonomy
    permalinks:
      category: /categories/:name/
      tag: /tags/:name/
+     years: /year-archive/:year/
 
 
 # HTML Compression
