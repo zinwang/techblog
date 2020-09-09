@@ -12,6 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.20.2"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -27,7 +28,7 @@ repository               : "zinwang/techblog" # GitHub username/repo-name e.g. "
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+breadcrumbs            : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
@@ -206,7 +207,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /articles/:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -255,12 +256,11 @@ jekyll-archives:
    layouts:
      category: archive-taxonomy
      tag: archive-taxonomy
-     year: archive-taxonomy
+     year: year-archive-taxonomy
    permalinks:
      category: /categories/:name/
      tag: /tags/:name/
-     years: /year-archive/:year/
-
+     year: /year-archives/:year/ 
 
 # HTML Compression
 # - https://jch.penibelst.de/
