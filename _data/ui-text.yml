@@ -432,7 +432,7 @@ zh-TW: &DEFAULT_ZH_HANT
   skip_links                 :
   skip_primary_nav           : "轉至主導航欄"
   skip_content               : "轉至内容"
-  skip_footer                : "轉至頁脚"
+  skip_footer                : "轉至頁尾"
   page                       : "頁面"
   pagination_previous        : "前一頁"
   pagination_next            : "後一頁"
@@ -452,7 +452,7 @@ zh-TW: &DEFAULT_ZH_HANT
   comments_label             : "留言"
   comments_title             : "留言內容"
   more_label                 : "了解更多"
-  related_label              : "猜您有與趣"
+  related_label              : "更多文章"
   follow_label               : "追蹤:"
   feed_label                 : "RSS Feed"
   powered_by                 : "Powered by"
@@ -471,10 +471,10 @@ zh-TW: &DEFAULT_ZH_HANT
   comment_success_msg        : "感謝您的留言！ 審核後將會顯示在站上。"
   comment_error_msg          : "抱歉，部份資料輸入有問題。請確認資料填寫正確後再試一次。"
   loading_label              : "載入中..."
-  search_label_text          : "輸入您要搜索的關鍵詞..."
-  search_placeholder_text    : "輸入您要搜索的關鍵詞..."
-  search_algolia_no_results  : "沒有結果"
-  results_found              : "條匹配的記錄"
+  search_label_text          : "請輸入關鍵字..."
+  search_placeholder_text    : "請輸入關鍵字..."
+  search_algolia_no_results  : "抱歉，找不到符合關鍵字的結果"
+  results_found              : "筆符合關鍵字的結果"
   back_to_top                : "回到頂部"
 zh-HK:
   <<: *DEFAULT_ZH_HANT
