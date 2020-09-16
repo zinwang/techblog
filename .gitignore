@@ -28,3 +28,6 @@ codekit-config.json
 .sass-cache
 _asset_bundler_cache
 _site
+
+# article drafts
+_drafts 
