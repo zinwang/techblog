@@ -11,7 +11,7 @@ tags:
 toc: false
 header: 
    teaser: '\assets\images\nyancat.jpg'
-   og_image: '\assets\images\code.jpg'
+   og_image: '\assets\images\nyancat.jpg'
 ---
 
 
