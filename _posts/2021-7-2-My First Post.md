@@ -10,9 +10,8 @@ tags:
   - 關於我
 toc: false
 header: 
-  teaser: \assets\images\2021-7-2-My First Post\98cc0e31-ef7c-4423-a1a9-a61db9db8172.sized-1000x1000.jpg
-  og_image: \assets\images\2021-7-2-My First Post\98cc0e31-ef7c-4423-a1a9-a61db9db8172.sized-1000x1000.jpg
-
+  teaser: assets\images\2021-7-2-My First Post\nyancat.jpg
+  og_image: assets\images\2021-7-2-My First Post\nyancat.jpg
 ---
 
 
@@ -22,3 +21,4 @@ Hurray!! This is the first post of this blog. I am Zin, a college student in Tai
 
 
 這是這個部落格的第一篇文章!! 我是 Zin， 一個來自台灣的大學生 。我會以中文與英文紀錄我在工程與資訊領域所學習的知識與踩入的坑。我希望藉由撰寫部落格，我的技巧與能力有所成長。如果部落格文章內容有任何錯誤，歡迎多多指教。
+
