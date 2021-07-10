@@ -1,5 +1,4 @@
 ---
-toc: false
 title: "My First Post"
 categories:
   - Very First
@@ -9,12 +8,17 @@ tags:
   - about me
   - 第一篇
   - 關於我
+toc: false
+header: 
+  teaser: \assets\images\2021-7-2-My First Post\98cc0e31-ef7c-4423-a1a9-a61db9db8172.sized-1000x1000.jpg
+  og_image: \assets\images\2021-7-2-My First Post\98cc0e31-ef7c-4423-a1a9-a61db9db8172.sized-1000x1000.jpg
+
 ---
 
 
 
-Hurray!! This is the first post of this blog. I am Zin, a college student in Taiwan. I will record knowledges I learn and pits I fall into in Engineering, Physics, Mathematics, and Computer Science in Mandarin and my poor English. I hope I can improve skills and capabilities by this writing this blog. If there is any mistake in the content, it would be my pleasure to receive your advices.
+Hurray!! This is the first post of this blog. I am Zin, a college student in Taiwan. I will record knowledges I learn and pits I fall into in Engineering and Computer Science in Mandarin and English. I hope I can improve skills and capabilities by this writing this blog. If there is any mistake in the content, it would be my pleasure to receive your advices.
 
 
 
-這是這個部落格的第一篇文章!! 我是 Zin， 一個來自台灣的大學生 。我會以中文與英文紀錄我在工程、物理、數學、資訊領域所學習的知識與踩入的坑。我希望藉由撰寫部落格，我的技巧與能力有所成長。如果部落格文章內容有任何錯誤，歡迎多多指教。
+這是這個部落格的第一篇文章!! 我是 Zin， 一個來自台灣的大學生 。我會以中文與英文紀錄我在工程與資訊領域所學習的知識與踩入的坑。我希望藉由撰寫部落格，我的技巧與能力有所成長。如果部落格文章內容有任何錯誤，歡迎多多指教。
