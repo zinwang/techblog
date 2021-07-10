@@ -10,8 +10,8 @@ tags:
   - 關於我
 toc: false
 header: 
-  teaser: assets\images\nyancat.jpg
-  og_image: assets\images\nyancat.jpg
+   teaser: 'assets\images\nyancat.jpg'
+   og_image: 'assets\images\nyancat.jpg'
 ---
 
 
